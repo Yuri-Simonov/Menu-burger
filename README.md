@@ -1,4 +1,4 @@
-# Menu-burger
+# Menu-burger (size of a phone)
 ## Portfolio project
 ### The technology used:
 HTML;
